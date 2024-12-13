@@ -1,5 +1,3 @@
-console.log("Array");
-
 let arr = [10, 2, 3, 9, 5, 6, 7, 8];
 
 function reverseArray(arr) {
